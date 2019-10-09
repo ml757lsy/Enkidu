@@ -22,7 +22,7 @@ pod 'Enkidu'
 
 ## Author
 
-lishiyuan, lishiyuan@vipkid.com.cn
+ml757lsy@126.com
 
 ## License
 
