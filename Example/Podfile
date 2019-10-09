@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'Enkidu_Example' do
+  pod 'Enkidu', :path => '../'
+
+  target 'Enkidu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
